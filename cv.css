@@ -22,7 +22,7 @@ body {
 }
 
 .background-grey {
-    background-color: #cccccc;
+    background-color: #f8f8f8;
 }
 
 .font-accent {
@@ -30,12 +30,12 @@ body {
 }
 
 .font-grey {
-    color: #cccccc;
+    color: #f8f8f8;
 }
 
 .icon {
     display: inline;
-    width: 15px;
+    width: 16px;
 }
 
 .list-reset {
@@ -58,11 +58,11 @@ body {
  }
 
  .m-left-m {
-    margin-left: 12px;
+    margin-left: 16px;
  }
 
  .m-top-s {
-    margin-top: 6px;
+    margin-top: 8px;
  }
 
  .inline {
